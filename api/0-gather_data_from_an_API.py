@@ -4,9 +4,9 @@
 Fetches an employee's TODO list from the JSONPlaceholder REST API
 and displays their task completion progress on the standard output.
 """
-import sys
-
 import requests
+
+import sys
 
 
 if __name__ == "__main__":
